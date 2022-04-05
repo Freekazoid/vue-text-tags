@@ -57,9 +57,8 @@ export default {
 </script>
 
 <style>
-.conteiner-tags{
-  height: 50px;
-  overflow: hidden;
-}
-
+  .conteiner-tags{
+    height: 50px;
+    overflow: hidden;
+  }
 </style>
